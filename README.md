@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Patrik and I¨m student at VŠB.
+I mostly prefer to work with frontend of web applications.
+- 🌱 I’m currently learning React
+
 <!--
 **0p4tr1k0/0p4tr1k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
